@@ -1,0 +1,38 @@
+{
+  "/": {
+    "title": "🪴 Ryan's Garden",
+    "content": "\nHi! Welcome to my digital garden. 🌱\n\nHere you can find:\n- [[notes/Class Notes]]\n- [[notes/Reading Notes]]\n- [[notes/Thoughts]]",
+    "lastmodified": "2022-12-01T06:17:23.018451916Z",
+    "tags": null
+  },
+  "/Class-Notes/The-Science-of-Well-being-by-Yale-University": {
+    "title": "",
+    "content": "On Coursera with Professor Laurie Santos\n\n---\n\nContents:\n- [[#Introduction]]\n- [[#Misconceptions about happiness]]\n- [[#Why our expectations are so bad]]\n- [[#What stuff really increases happiness]]\n- [[#Strategies to reset our expectations]]\n- [[#Putting strategies into practice]]\n\n---\n\n## Introduction\n\nReasons of this course:\n- The science of psychology has a lot of new insights\n\t- many new successful techniques to \"nudge\" people to the right direction\n- We need these insights pretty badly\n\t- we are not as happy as we hope for\n\t- Americans are among the most unhappy people in the world\n- I (Professor) need these insights pretty badly\n\n---\n\n## Misconceptions about happiness\n\n\n\n\n\n### G.I. Joe Fallacy\nProfessor Santos, a professor in psychology, has below-average happiness. Why? She and colleague developed a theory:\n\n**The G.I. Joe Fallacy** = the mistaken idea that \"knowing\" is half the battle.\n\nKnowing is not half the battle. Merely knowing something is not enough to change our behavior. One example is optical illusion, knowing how the illusion works does not make us immune to the illusion.\n\n### Things we think will make us happy (but don't)\n1. Good job\nBeing rejected by a dream job matters a lot less than we think. Gilbert et al. (1998) did an experiment letting college students predict their drop in happiness after being rejected by a job. The results they get was\n\n\n\n## Why our expectations are so bad\n\n## What stuff really increases happiness\n\n## Strategies to reset our expectations\n\n## Putting strategies into practice",
+    "lastmodified": "2022-12-01T08:02:51.141893345Z",
+    "tags": null
+  },
+  "/Reading-Notes/The-Molecule-of-More-Daniel-Z.-Lieberman": {
+    "title": "The Molecule of More - Daniel Z. Lieberman",
+    "content": "\n",
+    "lastmodified": "2022-12-01T06:40:57.874280688Z",
+    "tags": null
+  },
+  "/notes/Class-Notes": {
+    "title": "Class Notes",
+    "content": "\n[EECS 127/227A: Optimization Models in Engineering](https://ryeii.github.io/CS127-227A/note/main.pdf)\n\n[CS 170: Efficient Algorithms and Intractable Problems](https://ryeii.github.io/CS170/note/main.pdf)\n\n[[Class Notes/The Science of Well-being by Yale University]]",
+    "lastmodified": "2022-12-01T08:04:43.985177705Z",
+    "tags": null
+  },
+  "/notes/Reading-Notes": {
+    "title": "Reading Notes",
+    "content": "\n[[Reading Notes/The Molecule of More - Daniel Z. Lieberman]]",
+    "lastmodified": "2022-12-01T06:40:51.291263455Z",
+    "tags": null
+  },
+  "/notes/Thoughts": {
+    "title": "Thoughts",
+    "content": "\n",
+    "lastmodified": "2022-12-01T06:17:48.735888759Z",
+    "tags": null
+  }
+}

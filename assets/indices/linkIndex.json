@@ -1,0 +1,176 @@
+{
+  "index": {
+    "links": {
+      "/": [
+        {
+          "source": "/",
+          "target": "/notes/Class-Notes",
+          "text": "notes/Class Notes"
+        },
+        {
+          "source": "/",
+          "target": "/notes/Reading-Notes",
+          "text": "notes/Reading Notes"
+        },
+        {
+          "source": "/",
+          "target": "/notes/Thoughts",
+          "text": "notes/Thoughts"
+        }
+      ],
+      "/Class-Notes/The-Science-of-Well-being-by-Yale-University": [
+        {
+          "source": "/Class-Notes/The-Science-of-Well-being-by-Yale-University",
+          "target": "/",
+          "text": "#Introduction"
+        },
+        {
+          "source": "/Class-Notes/The-Science-of-Well-being-by-Yale-University",
+          "target": "/",
+          "text": "#Misconceptions about happiness"
+        },
+        {
+          "source": "/Class-Notes/The-Science-of-Well-being-by-Yale-University",
+          "target": "/",
+          "text": "#Why our expectations are so bad"
+        },
+        {
+          "source": "/Class-Notes/The-Science-of-Well-being-by-Yale-University",
+          "target": "/",
+          "text": "#What stuff really increases happiness"
+        },
+        {
+          "source": "/Class-Notes/The-Science-of-Well-being-by-Yale-University",
+          "target": "/",
+          "text": "#Strategies to reset our expectations"
+        },
+        {
+          "source": "/Class-Notes/The-Science-of-Well-being-by-Yale-University",
+          "target": "/",
+          "text": "#Putting strategies into practice"
+        }
+      ],
+      "/notes/Class-Notes": [
+        {
+          "source": "/notes/Class-Notes",
+          "target": "/Class-Notes/The-Science-of-Well-being-by-Yale-University",
+          "text": "Class Notes/The Science of Well-being by Yale University"
+        }
+      ]
+    },
+    "backlinks": {
+      "/": [
+        {
+          "source": "/Class-Notes/The-Science-of-Well-being-by-Yale-University",
+          "target": "/",
+          "text": "#Introduction"
+        },
+        {
+          "source": "/Class-Notes/The-Science-of-Well-being-by-Yale-University",
+          "target": "/",
+          "text": "#Misconceptions about happiness"
+        },
+        {
+          "source": "/Class-Notes/The-Science-of-Well-being-by-Yale-University",
+          "target": "/",
+          "text": "#Why our expectations are so bad"
+        },
+        {
+          "source": "/Class-Notes/The-Science-of-Well-being-by-Yale-University",
+          "target": "/",
+          "text": "#What stuff really increases happiness"
+        },
+        {
+          "source": "/Class-Notes/The-Science-of-Well-being-by-Yale-University",
+          "target": "/",
+          "text": "#Strategies to reset our expectations"
+        },
+        {
+          "source": "/Class-Notes/The-Science-of-Well-being-by-Yale-University",
+          "target": "/",
+          "text": "#Putting strategies into practice"
+        }
+      ],
+      "/Class-Notes/The-Science-of-Well-being-by-Yale-University": [
+        {
+          "source": "/notes/Class-Notes",
+          "target": "/Class-Notes/The-Science-of-Well-being-by-Yale-University",
+          "text": "Class Notes/The Science of Well-being by Yale University"
+        }
+      ],
+      "/notes/Class-Notes": [
+        {
+          "source": "/",
+          "target": "/notes/Class-Notes",
+          "text": "notes/Class Notes"
+        }
+      ],
+      "/notes/Reading-Notes": [
+        {
+          "source": "/",
+          "target": "/notes/Reading-Notes",
+          "text": "notes/Reading Notes"
+        }
+      ],
+      "/notes/Thoughts": [
+        {
+          "source": "/",
+          "target": "/notes/Thoughts",
+          "text": "notes/Thoughts"
+        }
+      ]
+    }
+  },
+  "links": [
+    {
+      "source": "/Class-Notes/The-Science-of-Well-being-by-Yale-University",
+      "target": "/",
+      "text": "#Introduction"
+    },
+    {
+      "source": "/Class-Notes/The-Science-of-Well-being-by-Yale-University",
+      "target": "/",
+      "text": "#Misconceptions about happiness"
+    },
+    {
+      "source": "/Class-Notes/The-Science-of-Well-being-by-Yale-University",
+      "target": "/",
+      "text": "#Why our expectations are so bad"
+    },
+    {
+      "source": "/Class-Notes/The-Science-of-Well-being-by-Yale-University",
+      "target": "/",
+      "text": "#What stuff really increases happiness"
+    },
+    {
+      "source": "/Class-Notes/The-Science-of-Well-being-by-Yale-University",
+      "target": "/",
+      "text": "#Strategies to reset our expectations"
+    },
+    {
+      "source": "/Class-Notes/The-Science-of-Well-being-by-Yale-University",
+      "target": "/",
+      "text": "#Putting strategies into practice"
+    },
+    {
+      "source": "/",
+      "target": "/notes/Class-Notes",
+      "text": "notes/Class Notes"
+    },
+    {
+      "source": "/",
+      "target": "/notes/Reading-Notes",
+      "text": "notes/Reading Notes"
+    },
+    {
+      "source": "/",
+      "target": "/notes/Thoughts",
+      "text": "notes/Thoughts"
+    },
+    {
+      "source": "/notes/Class-Notes",
+      "target": "/Class-Notes/The-Science-of-Well-being-by-Yale-University",
+      "text": "Class Notes/The Science of Well-being by Yale University"
+    }
+  ]
+}
